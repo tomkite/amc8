@@ -59,7 +59,7 @@
   - Proportions
   - Percents
   - Percent of Change
-*** Review 1.1 to 1.4 ***
+_Review 1.1 to 1.4_
 5. Distribution
   - The Distributive Property
   - Difference of Squares and Perfect Squares
@@ -100,7 +100,7 @@
   - The Fundamental Counting Principle
 5. Casework
   - Keeping Organized
-*** Review 2.1 to 2.5
+_Review 2.1 to 2.5_
 6. Factorials and Permutations
   - Factorials
   - Permutations
@@ -110,7 +110,7 @@
   - Paths on a Grid
   - Beyond Casework
   - Complementary Counting
-*** Review 2.1 to 2.7
+_Review 2.1 to 2.7_
 8. Sticks and Stones
   - With and Without Restrictions
 9. Pascal's Triangle
@@ -127,7 +127,7 @@
 3. Casework and Probability
 4. Probability and Combinations
 5. Complementary Counting and Probability
-*** Review 3.1 to 3.4
+_Review 3.1 to 3.4_
 6. Geometric Probability
 7. Expected Value
   - Finding the average outcome
