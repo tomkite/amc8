@@ -35,6 +35,8 @@
 
 ## Table of Contents - Competition Math For Middle School
 ### Algebra
+- Variables and Equations: Variables, Consecutive Integers, d=rt, Harmonic Mean, Moles Digging Holes
+- Linear Equations
 ### Counting
 ### Probability
 ### Number Theory
