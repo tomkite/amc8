@@ -61,6 +61,7 @@
   - Percent of Change
 
 _Review 1.1 to 1.4_
+
 5. Distribution
   - The Distributive Property
   - Difference of Squares and Perfect Squares
@@ -91,6 +92,7 @@ _Review 1.1 to 1.4_
   - Continued Fractions
   
 _Chapter Review_
+
 ### Counting
 1. Basics
   - Simple Counting Techniques
@@ -104,6 +106,7 @@ _Chapter Review_
   - Keeping Organized
   
 _Review 2.1 to 2.5_
+
 6. Factorials and Permutations
   - Factorials
   - Permutations
@@ -115,12 +118,14 @@ _Review 2.1 to 2.5_
   - Complementary Counting
   
 _Review 2.1 to 2.7_
+
 8. Sticks and Stones
   - With and Without Restrictions
 9. Pascal's Triangle
   - Combinations and Pascal's Triangle
 
 _Chapter Review_
+
 ### Probability
 1. Probability Basics
   - Compound Events
@@ -134,11 +139,13 @@ _Chapter Review_
 5. Complementary Counting and Probability
 
 _Review 3.1 to 3.5_
+
 6. Geometric Probability
 7. Expected Value
   - Finding the average outcome
 
 _Chapter Review_
+
 ### Number Theory
 1. Primes and Divisibility
   - Sieve of Eratosthenes
@@ -153,6 +160,7 @@ _Chapter Review_
   - GCF and ICM, Factorials
   
 _Review 3.1 to 3.5_
+
 4. Different Bases
   - Nothation, Basic Arithmetic
 5. The Units Digit
@@ -166,6 +174,7 @@ _Review 3.1 to 3.5_
 7. Modular Arithmetic
 
 _Chapter Review_
+
 ### Geometry
 1. Geometry Basics
   - Lines
