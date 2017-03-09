@@ -35,9 +35,32 @@
 
 ## Table of Contents - Competition Math For Middle School
 ### Algebra
-- Variables and Equations: Variables, Consecutive Integers, d=rt, Harmonic Mean, Moles Digging Holes
-- Linear Equations
+1. Variables and Equations
+  - Variables
+  - Consecutive Integers
+  - d=rt
+  - Harmonic Mean
+  - Moles Digging Holes
+2. Linear Equations
+  - Slope
+  - Intercepts
+  - Slope-Intercept Form
+  - Point-Slope Form
+  - Standard Form
+  - Parallel/Perpendicular Lines
+  - Horizontal and Vertical Lines
+3. System of Equations
+4. Ratios, Properties, and Percents
+5. Distribution
+6. Quadratics
+7. Exponents and Radicals
+8. Statistics
+9. Sequences and Series
+10. More Substitution
 ### Counting
+
 ### Probability
+
 ### Number Theory
+
 ### Geometry
