@@ -17,3 +17,6 @@ _book
 
 # No need to track IDE
 .idea/**
+
+# No tracking attendance
+attendance.md
