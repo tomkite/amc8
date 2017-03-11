@@ -1,40 +1,8 @@
 # AMC8 Part I & II
 
-## Table of Contents - American Mathematics Competitions (AMC8) Preparation
-- Perimeter and areas
-- Patterns
-- Logical reasoning
-- Operations with fractions
-- Even and odd
-- Word problems related to percent
-- Transformations
-- Consective integers
-- Operations with decimals
-- Sets and Venn diagram
-- Counting techniques
-- Divisibilty
-- Geometric visulization
-- Factors
-- Prime numbers
-- Ratio, rate and proportion
-- Least common multiple and greatest common factor
-- Solving equations
-- Special symbols and operations
-- Remainder
-- Sequences and series
-= Functions
-- Pythagorean Theorem and triangles
-- Probability
-- Angles and triangles
-- Rectangles and squares
-- Similar triangles
-- Trapezoids
-- Circles
-- Volumes
-
-
 ## Table of Contents - Competition Math For Middle School
-### Algebra
+### PART 1/2
+#### Algebra
 1. Variables and Equations
   - Variables
   - Consecutive Integers
@@ -90,7 +58,7 @@
   - Continued Fractions
   - _Chapter Review_
 
-### Counting
+#### Counting
 1. Basics
   - Simple Counting Techniques
 2. Venn Diagrams
@@ -118,7 +86,8 @@
   - Combinations and Pascal's Triangle
   - _Chapter Review_
 
-### Probability
+### PART 2/2
+#### Probability
 1. Probability Basics
   - Compound Events
   - Dependent and Independent
@@ -135,7 +104,7 @@
   - Finding the average outcome
   - _Chapter Review_
 
-### Number Theory
+#### Number Theory
 1. Primes and Divisibility
   - Sieve of Eratosthenes
   - Primes
@@ -149,7 +118,7 @@
   - GCF and ICM, Factorials
   - _Review 3.1 to 3.5_
 4. Different Bases
-  - Nothation, Basic Arithmetic
+  - Notation, Basic Arithmetic
 5. The Units Digit
   - Addition
   - Multiplication
@@ -161,7 +130,7 @@
 7. Modular Arithmetic
   - _Chapter Review_
 
-### Geometry
+#### Geometry
 1. Geometry Basics
   - Lines
   - Angles
@@ -199,4 +168,37 @@
   - Parallel Lines
   - Area and Volume Relationship
   - _Chapter Review_
+
+
+## Table of Contents - American Mathematics Competitions (AMC8) Preparation
+- Perimeter and areas
+- Patterns
+- Logical reasoning
+- Operations with fractions
+- Even and odd
+- Word problems related to percent
+- Transformations
+- Consective integers
+- Operations with decimals
+- Sets and Venn diagram
+- Counting techniques
+- Divisibilty
+- Geometric visulization
+- Factors
+- Prime numbers
+- Ratio, rate and proportion
+- Least common multiple and greatest common factor
+- Solving equations
+- Special symbols and operations
+- Remainder
+- Sequences and series
+= Functions
+- Pythagorean Theorem and triangles
+- Probability
+- Angles and triangles
+- Rectangles and squares
+- Similar triangles
+- Trapezoids
+- Circles
+- Volumes
 
