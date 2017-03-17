@@ -1,4 +1,4 @@
-#Session01 - Warm-ups
+# Ascende Learning - AMC8 Part I - Diagnostics
 
 1. (6 ? 3) + 4 - (2 - 1) = 5. To make this statement true, the question mark between the 6 and the 3 should be replaced by
    
@@ -18,11 +18,11 @@
    
 3. Which triplet of numbers has a sum NOT equal to 1?
    
-   - (A) (1/2,1/3,1/6) 
-   - (B) (2,-2,1) 
-   - (C) (0.1,0.3,0.6) 
-   - (D) (1.1,-2.1,1.0) 
-   - (E) (-3/2,-5/2,5)
+   - (A) (1/2, 1/3, 1/6) 
+   - (B) (2, -2, 1) 
+   - (C) (0.1, 0.3, 0.6) 
+   - (D) (1.1, -2.1, 1.0) 
+   - (E) (-3/2, -5/2, 5)
    
 4. Ara and Shea were once the same height. Since then Shea has grown 20% while Ara has grown half as many inches as Shea. Shea is now 60 inches tall. How tall, in inches, is Ara now?
    
