@@ -13,7 +13,7 @@
 
 4. The graph of the equation y = 2x + b passes through the point (b, -3). Find b.
 
-5. If the graphs of the lines 2x - 5y = 7 and 10x + by = 7 are perpendicular, what is the value of b? (hint: two lines are perpendicular if the products of their slopes is -1.)
+5. If the graphs of the lines 2x - 5y = 7 and 10x + by = 7 are perpendicular, what is the value of b? (*hint: two lines are perpendicular if the products of their slopes is -1.*)
 
 
 - - - 
