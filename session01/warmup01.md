@@ -1,4 +1,6 @@
-# Ascende Learning - AMC8 Part I - Diagnostics
+#### Ascende Learning - AMC8 Part I
+# Diagnostics
+- - - 
 
 1. (6 ? 3) + 4 - (2 - 1) = 5. To make this statement true, the question mark between the 6 and the 3 should be replaced by
    
@@ -39,3 +41,9 @@
    - (C) 4 
    - (D) 5 
    - (E) 8
+   
+   
+- - - 
+<div class="footer">
+    &copy; 2017 Ascende Learning
+</div>

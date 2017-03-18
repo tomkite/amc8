@@ -1,4 +1,6 @@
-#Session 01 - Examples
+#### Ascende Learning - AMC8 Part I
+# Session 01 - Examples
+- - - 
 
 ## Examples - Harmonic Mean
 1. On a bike ride, Calvin starts at home and goes up a long hill for 30 minutes at just 6pmh. Then he turns around and rides home along the same path at a speed of 18mph. What is his average spped for the round-trip?
@@ -21,3 +23,7 @@
 2. Bradley scores 34 points in a basketball game by making 12 baskets. If earch basket was worth either 2 or 3 points, how many three-pointers did Bradley make?
 
 
+- - - 
+<div class="footer">
+    &copy; 2017 Ascende Learning
+</div>

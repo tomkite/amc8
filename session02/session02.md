@@ -1,4 +1,6 @@
-#Session 02 - Coverage
+#### Ascende Learning - AMC8 Part I
+# Session 02 - Coverage
+- - - 
 
 2. Linear Equations
   - Slope
@@ -8,20 +10,11 @@
   - Standard Form
   - Parallel/Perpendicular Lines
   - Horizontal and Vertical Lines
-  
-3. System of Equations
-  - Substitution
-  - Elimination
-  * - Common Word Problems *
-  * - Cheating the System *
 
-4. Ratios, Properties, and Percents
-  - Ratios
-  - Proportions
-  - Percents
-  - Percent of Change
+
+- - - 
+<div class="footer">
+    &copy; 2017 Ascende Learning
+</div>
+
   
-5. Distribution
-  - The Distributive Property
-  - Difference of Squares and Perfect Squares
-  - Sum of the Reciprocals
