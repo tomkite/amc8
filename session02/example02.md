@@ -14,15 +14,15 @@
 2. y = 3x + 2; rate=3; base=2
 
 ## Examples - two points
-3. slope: rise over run
+1. slope: rise over run
 
-4. intercepts: points where line crosses and x and y-axis
+2. intercepts: points where line crosses and x and y-axis
 
-1. slope = rise / run = (y2-y1)/(x2-x1) = (y1-y2)/(x1-x2)
+3. slope = rise / run = (y2-y1)/(x2-x1) = (y1-y2)/(x1-x2)
 
-2. find the slope for a line passing (7, -2) and (-4, -1)
+4. find the slope for a line passing (7, -2) and (-4, -1)
 
-3. write the linear equation for a line passing (10, 3) and (-5, 9)
+5. write the linear equation for a line passing (10, 3) and (-5, 9)
 
 (y-3)/(x-10) = (9-3)/(-5-10) ==> y = (-2/5)x + 7
 
