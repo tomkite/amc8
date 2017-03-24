@@ -1,0 +1,5 @@
+# markdown to html. $python -m markdown <file.md> > <file.html>
+markdown2
+
+# markdown to pdf. $md2pdf resume.md
+#markdown2pdf

@@ -17,6 +17,9 @@ _book
 
 # No need to track IDE
 .idea/**
+.DS_Store
 
 # No tracking attendance
 attendance.md
+
+
