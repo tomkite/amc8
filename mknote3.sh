@@ -15,10 +15,11 @@ if [[ $# < 1 ]]; then
     exit
 fi
 
+mkdir -p ~/venv
 if [[ -z $VIRTUAL_ENV ]]; then
-    export WORKON_HOME=~/data/geek/venv
-    source /usr/local/bin/virtualenvwrapper.sh
-    workon amc
+    echo "creating venv"
+    pyvenv ~/venv/amc
+    pip3 install -r requirements.txt
 elif [[ $VIRTUAL_ENV != *"amc" ]]; then
     echo "Previous virtual ==> env ${prev_venv}. ***EXIT ***"
     exit 
@@ -35,5 +36,5 @@ do
 #    base=${f##*/} # turn /the/path/foo.txt to foo.txt
 #    basebase=${base%.md} # turn foo.txt to foo
     basebase=${f%.md} # turn foo.txt to foo
-    markdown2 $f > ${basebase}.html
+    echo "markdown2 $f > ${basebase}.html"
 done

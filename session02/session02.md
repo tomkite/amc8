@@ -2,7 +2,7 @@
 ## Session02 - Coverage
 - - - 
 
-##Linear Equations
+3. Linear Equations
   - Slope
   - Intercepts
   - Slope-Intercept Form

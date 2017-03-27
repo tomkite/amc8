@@ -12,17 +12,15 @@
 - - - 
 
 ### Warm-up
-1. Johnny eats 4 times *as much as* Danny eats. If Danny eats 10 candies, how many candies does Johnny eat?
+1. Johnny has 4 times *as much as* Danny does. If Danny has 10 candies, how many candies does Johnny have?
 
-2. True of False: Five is *25% more* than four, therefore four is *25% less* than five
+2. True of False? Five is *25% more* than four, therefore four is *25% less* than five
 
-3. There are two tables with the same width of 2 feet. One has length of 5 feet, the other 3 feet long. What the total areas of two tables combined?
-
-4. On the tables are pennies and nickels in the ratio of 1:2. Which one answer is correct?
-   * (A) $1.10
+3. In a bag, there are pennies and nickels in the ratio of 1:2. How much money is in the bag?
+   * (A) $1.11
    * (B) $1.21
-   * (C) $1.32
-   * (D) $1.43
+   * (C) $1.31
+   * (D) $1.41
    
 ### Ratio & Percent
 1. Ratio: relationship between two quantities, in fraction or m:n
@@ -42,11 +40,12 @@
 5. Adam has 3 different sizes of backpacks. winter pack, summer pack, and day pack. day pack is half of summer pack in size; 5 summer packs can hold the same amount of stuff as that in 3 winter packs. Adam has 6 full winter pack stuff, but he has only day packs. How many day packs does he need?
    * w:s:d = 3:5:10
    * 6:10:20 therefore *20*
+   * *see warm-up #3, what is the solution difference?*
 
 ### Proportion
 1. Two ratios are proportional if they are equal, e.g. 1/2 = 50/100
 
-2. In a proportion, cross-products are always equal
+2. In a proportion, cross-products are always equal, e.g. 1/4 = 25/100 ==> 1*100 = 4*25, a/b = x/y ==> ay = bx
 
 3. Tom drafted a construction blue print. The scale of the blueprint is 1/4 inch = 1 foot. If window width on the blueprint is 2 inches long. What is the window width?
    * (1/4):1 = 2 : x
