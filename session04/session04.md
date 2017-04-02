@@ -2,7 +2,7 @@
 ## Coverage
 - - - 
 
-* _Review 1.1 to 1.4_
+### Review 1.1 to 1.4
   1. Variables and Equations
      - Harmonic Mean
      - Moles Digging Holes
@@ -14,11 +14,6 @@
      - Elimination
      - Cheating the System
   4. Ratios, Properties, and Percents
-
-* Distribution
-  - The Distributive Property
-  - Difference of Squares and Perfect Squares
-  - Sum of the Reciprocals
 
 - - -
 ### Review Exercises
@@ -51,40 +46,31 @@
 4. answer
   - let radius be a, b, and c
   - a+b = 6; b+c = 8, a+c=10;
-  - #3 - #2 ==> a-b=2
-  - #1 + #4 ==> 2b = 8 ==> a = 4; b = 2; and c = 6
+  - *#3 - #2 ==> a-b=2
+  - *#1 + #4 ==> 2b = 8 ==> a = 4; b = 2; and c = 6
   - pi(a^2 + b^2 + c^2) = pi(16+4+36) = 56pi
 
-5.
-### Warm-up
-1. Johnny has 3 boxes and Lily has 5 boxes. How many boxes do they have all together?
-
-2. If the box in #1 contains 3 apples and 2 peaches, how many apples and peaches are there all together?
-
-### Distribution
-1. a(b+c) = ab + ac
-   * 3(x-2) = 3x - 6
-   * 4x - 3(x-2) = 4x + (-3)(x + (-2)) = 4x - 3x + (-3)(-2) = x + 6
-
-2. (a+b)(c+d) = (a+b)c + (a+b)d = ac + bc + ad + bd
-   * (2x - 3)(4x -1) = (2x - 3)4x - (2x - 3) = 8x^2 - 12x -2x + 3 = 8x^2 - 14x + 3
-
-## Difference of Sequares
-* a^2 - b^2 = (a + b)(a - b)
-   * (a - 5)(a + 5)
-   * (2a - 9)(2a + 9)
-
-## Perfect Squares
-* (a + b)^2 = a^2 + 2ab + b^2
-   * (6x - 5y)^2 = (6x)^2 + 2(6x)(-5y) + (-5y)^2 = 36x^2 - 60xy + 25y^2
-
-## Sum of Reciprocals
-* given ab and a+b, the sum of their reciprocals 1/a + 1/b = b/ab + a/ab = (a+b)/(ab)
-   * A square has an area of 50 cm^2. The length is increased by 4cm and the width decreased by 4cm. What is the area of the resulting rectangle?
-      * a*a = 50, (a+4)(a-4) = a^2 - 16 = 50 - 16 = 34
-   * if ab = 7, bc = 5 and a + c = 4, what is a + b + c?
-      * 7 + 5 = ab + bc = b(a+c) = 4b ==> 4b = 12 ==> b = 3, so a+b+c = 4+3 = 7
-
+5. answer
+  - s+6 = 1/2*f --> f = 2s + 12
+  - s+6-6 = 1/3*(f + 6) --> 3s = f + 6 --> f = 3s - 6
+  - 3s - 6 = 2s + 12 --> s = 18 --> f = 48 --> 30
+  
+6. answer
+  - avg = 2ab/(a+b)
+  - 21 = 2*18x/(18+x) --> 7 = 12x/(18+x)
+  - 126 + 7x = 12x --> 5x = 126 --> 25.2
+  
+7. answer
+  - line passing A and B is perpendicular to the line connecting two centers, so the product of their slope is -1
+  - slope line passing two centers: s = (4-2)/(5-1) = 1/2 --> the other line slope is -2
+  - the other line also pass the middle point between two centers ((5+1)/2, (4+2)/2) = (3, 3)
+  - so the equation is -2 (slope) = (y2-y1)/(x2-x1) = (y-3)/(x-3) --> y-3 = -2(x-3) --> y = -2x + 9
+  
+8. answer
+  - x spiders --> x+18 beetles
+  - total bugs = 2x + 18
+  - total legs = 8x + 6(x+18) = 8x + 6x + 6*18 = 14x + 6*18
+  - 14x + 6*18 = 2x + 18 + 162 --> 12x = 162 - 5*18 --> 2x = 27 - 5*3 --> 2x = 27-15 --> x = 6
 
 - - -
 
