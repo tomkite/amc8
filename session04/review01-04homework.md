@@ -2,20 +2,7 @@
 ## Review
 - - - 
 
-### Review 1.1 to 1.4
-  1. Variables and Equations
-     - Harmonic Mean
-     - Moles Digging Holes
-  2. Linear Equations
-     - Slope-Intercept Form
-     - Point-Slope Form
-  3. System of Equations
-     - Substitution
-     - Elimination
-     - Cheating the System
-  4. Ratios, Properties, and Percents
-
-### Review Exercises
+### Review 1.1 to 1.4 Exercises
 1. It takes 6 lumberjacks 7 minutes to saw through 8 trees. How many minutes will it take for 7 lumberjacks to saw through 8 trees? (hint: problem pattern: moles dig holes)
 
 2. A fruit stand sells apples, bananas, and pears. There are 20% more pears than apples, and the ratio of apples to bananas is 3:4. What is the fewest number of pears that could be at the fruit stand? (hint: fruits can only be a whole number, not a decimal number)
