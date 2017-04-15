@@ -1,20 +1,37 @@
+#### Ascende Learning - AMC8 Part I
+# Session 05 - Homework Answers 4/15/2017
+
 1. Distribute and simply
-   - (8a - 2b - 3)(a + 2b) 
+   - (8a - 2b - 3)(a + 2b)
    - (a + 2)(a + 9)(a - 2)
    - (2x - 3)(2x + 3)
    - (x - 7)(x + 3)
+
+   - answers
+     - 8a(a+2b) - 2b(a+2b) -3(a+2b) = 8a^2 +16ab - 2ab - 4b^2 - 3a - 6b = 8a^2 -14ab - 4b^2 - 3a - 6b
+     - (a+9)(a^2-4) = a^3 + 9a^2 - 4a - 36
+     - 4x^2 - 9
+     - x^2 - 7x + 3x - 21 = x^2 - 4x - 21
 
 2. Simply the following
    - (3x + 5)^2
    - (a - 3b + 6)^2
 
+   - answers
+     - 9x^ + 30x + 25
+     - (a - 3b)^2 + 12(a - 3b) + 36 = a^2 -6ab + 9b^2 + 12a - 36b + 36 = a^2 + 12a - 6ab - 9b^2 - 36b + 36
+
 3. The area of a square is 256 cm^2. If the square re-shaped to a rectangle such that its length is 4 cm longer than width, what is the area of the new rectangle?
 
-4. If ab = 7, bc = 5 and a + c = 4, what is a + b + c?
+   --> x^2 = 256, (x-2)(x+2) = x^2 - 4 = 256 - 4 = 252
 
---> ab + bc = 7 + 5 = 12 --> b(a + c) = 12
+4. If ab = 7, bc = 5 and a + c = 4, what is a + b + c? (1.290)
 
-5. What is the smallest possible sum of two positive integers whose product is 999,996?
+   --> ab + bc = 7 + 5 = 12 --> b(a + c) = 12 --> b*4 = 12 --> b = 3 --> a + b + c = a + c + 3 = 4 + 3 = 7
+
+5. What is the smallest possible sum of two positive integers whose product is 999,996? (1.490)
+
+   --> if x = 1000, x*x = 1,000,000 -> 999,996 = 1,000,000 - 4 = (1000 + 2)(1000 - 2) = 1002 * 998
 
 
 - - - 

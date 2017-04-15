@@ -68,7 +68,6 @@
 
    a + b = 5, ab = 2, what is a^2 + b^2? --> a^2 + b^2 + 2ab - 2ab --> (a+b)^2 - 2ab
 
-4. if ab = 7, bc = 5 and a + c = 4, what is a + b + c? --> ab + bc = 7 + 5 = 12 --> b(a + c) = 12
 
 - - - 
 
