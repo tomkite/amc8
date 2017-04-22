@@ -8,7 +8,7 @@
    - (x - 7)(x + 3)
 
    - answers
-     - 8a(a+2b) - 2b(a+2b) -3(a+2b) = 8a^2 +16ab - 2ab - 4b^2 - 3a - 6b = 8a^2 -14ab - 4b^2 - 3a - 6b
+     - 8a(a+2b) - 2b(a+2b) -3(a+2b) = 8a^2 +16ab - 2ab - 4b^2 - 3a - 6b = 8a^2 + 14ab - 4b^2 - 3a - 6b
      - (a+9)(a^2-4) = a^3 + 9a^2 - 4a - 36
      - 4x^2 - 9
      - x^2 - 7x + 3x - 21 = x^2 - 4x - 21
@@ -18,7 +18,7 @@
    - (a - 3b + 6)^2
 
    - answers
-     - 9x^ + 30x + 25
+     - 9x^2 + 30x + 25
      - (a - 3b)^2 + 12(a - 3b) + 36 = a^2 -6ab + 9b^2 + 12a - 36b + 36 = a^2 + 12a - 6ab - 9b^2 - 36b + 36
 
 3. The area of a square is 256 cm^2. If the square re-shaped to a rectangle such that its length is 4 cm longer than width, what is the area of the new rectangle?
