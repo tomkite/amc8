@@ -1,5 +1,5 @@
 #### Ascende Learning - AMC8 Part I
-# Session 06 - Homework 4/29/2017
+# Session 07 - Homework 4/29/2017
 - - - 
 
 ####Name __________________    Time took to complete: _________
