@@ -11,9 +11,11 @@
 
 3. The circumference of a circular table is 30 feet. If a set of silverware is placed every three feet around the circumference of the table, how many place-settings are there?
 
-4. At the pound there are 40 dogs. If 22 dogs have spots and 30 dogs have short hair, what is the fewest number of dogs that can have short hair and spots?
+4. At the pound there are 40 dogs. If 22 dogs have spots and 30 dogs have short hair, how many dogs that can have short hair and spots? (please use venn diagrams)
 
-5. Ten friends go out to dinner together: 7 order an appetizer, 5 order a soup, and 4 order a salad. If everyone orders something, but no one orders exactly two things, how many people order all three things?
+* bonus question:
+1. Ten friends go out to dinner together: 7 order an appetizer, 5 order a soup, and 4 order a salad. If everyone orders something, but no one orders exactly two things, how many people order all three things?
+* hint: use three-set venn diagrams, there is only one shared section, which represents all three item orders.
 
 
 
