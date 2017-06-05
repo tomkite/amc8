@@ -51,13 +51,14 @@
   - Arithmetic Sequences and Series
   - Geometric Sequences and Series
 
-8. Review Counting
+### Review Counting
+1. Counting
   - Basic with inclusive or exclusive rules
   - Venn Diagrams
   - Organize counting problems
-9. Counting Outcomes
+2. Counting Outcomes
   - The Fundamental Counting Principle
-10. Factorials and Permutations
+3. Factorials and Permutations
   - Factorials
   - Permutations
   - Permutations and Restrictions
